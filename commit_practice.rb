@@ -8,7 +8,7 @@ end
 puts multiply(number_1, number_2)
 
 
-
+#sorting prob from chris pine book
 
 puts 'Type in as many words as you want.'
 puts 'One word per line.'
